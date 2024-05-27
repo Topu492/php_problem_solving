@@ -1,4 +1,6 @@
-</php
-git init
+<?php
+$topu="Md saiful";
+
+echo $topu;
 
 ?>
